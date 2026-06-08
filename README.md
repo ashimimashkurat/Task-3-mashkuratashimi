@@ -131,18 +131,6 @@ FROM ecommerce_project;
 
 ---
 
-## 📸 Project Screenshots
-
-### SQL Script
-
-![SQL Script](screenshots/sql_script.png)
-
-### Query Results
-
-![Results](screenshots/results.png)
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Database Design
